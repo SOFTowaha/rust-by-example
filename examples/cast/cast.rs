@@ -1,4 +1,4 @@
-// Suppress all warnings from casts which overflow.
+
 #![allow(overflowing_literals)]
 
 fn main() {
